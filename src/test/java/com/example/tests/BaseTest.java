@@ -1,4 +1,4 @@
 package com.example.tests;
 
-public class Logintest {
+public class BaseTest {
 }
